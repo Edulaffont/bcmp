@@ -1,0 +1,40 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "respuestas": [
+        "Londres",
+        "Madrid",
+        "París"
+      ],
+      "respuesta_correcta": "París"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "respuestas": [
+        "Nilo",
+        "Amazonas",
+        "Misisipi"
+      ],
+      "respuesta_correcta": "Amazonas"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+      "respuestas": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jane Austen"
+      ],
+      "respuesta_correcta": "William Shakespeare"
+    },
+    {
+      "pregunta": "¿Cuál es el elemento químico con símbolo 'H'?",
+      "respuestas": [
+        "Helio",
+        "Hidrógeno",
+        "Hierro"
+      ],
+      "respuesta_correcta": "Hidrógeno"
+    }
+  ]
+}
