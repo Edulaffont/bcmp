@@ -7,7 +7,7 @@ public class Ciudades {
 
             // Arreglo de ciudades y sus apodos
             String[] ciudades = {"Caracas", "Maracaibo", "Valencia", "Barquisimeto", "Merida"};
-            String[] apodos = {"la Ciudad de la Furia", "la Tierra del Sol Amada", "la Ciudad de los maricos", "la Ciudad Crepuscular", "la Ciudad de los Caballeros"};
+            String[] apodos = {"la Ciudad de la Furia", "la Tierra del Sol Amada", "la Ciudad de las tres culturas", "la Ciudad Crepuscular", "la Ciudad de los Caballeros"};
 
             // Mostrar las opciones disponibles al usuario
             System.out.println("Selecciona una ciudad de Venezuela con un numero del 1 al 5 para obtener su apodo:");
